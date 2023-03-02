@@ -1,6 +1,7 @@
 import React from 'react'
 import { Blog, Possibility, Feature, Whatai, Header, Footer } from "./container"
 import { Navbar, Cta, Brand } from "./components"
+import "./App.css"
 
 const App = () => {
   return (
@@ -15,7 +16,7 @@ const App = () => {
         <Possibility />
         <Cta />
         <Blog />
-        <footer />
+        <Footer />
     </div>
   )
 }
