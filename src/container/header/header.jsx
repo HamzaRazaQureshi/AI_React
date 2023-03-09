@@ -13,7 +13,7 @@ const header = () => {
         <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
         <div className="ai__header-content__input">
           <input type="email" placeholder='Your Email Address'/>
-          <button type='button'>Get Started</button>
+          <button type='submit'>Get Started</button>
         </div>
         <div className="ai__header-content__people">
           <img src={people} alt="people" />
